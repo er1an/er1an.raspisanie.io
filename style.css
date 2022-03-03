@@ -149,3 +149,12 @@ hr {
 h4 {
   font-size: 13px;
 }
+.imagges {
+  margin: 3px auto;
+
+  width: 350px;
+  height: 100px;
+}
+.logo-img {
+  margin-left: 25%;
+}
